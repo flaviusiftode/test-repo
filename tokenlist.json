@@ -1,0 +1,13 @@
+{
+  "name": "BNBTiger List",
+  "tokens": [
+    {
+      "chainId": 80002,
+      "address": "0x52368893aB0956e87b788CD4eFA40BD31c35E428",
+      "name": "Bnb Tiger Inu",
+      "symbol": "BNBTiger",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/flaviusiftode/test-repo/refs/heads/main/some-logo.png"
+    }
+  ]
+}
